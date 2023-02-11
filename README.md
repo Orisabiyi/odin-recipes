@@ -1,4 +1,5 @@
 # odin-recipes
 
-This is a food-recipe project which will help me understand better the basics of html
-It will also allow me to make sure of vocabularies have learnt for the meantime
+This is a mini project concern with creating a food recipe site with only html
+
+This mini project will help examine what have learnt regarding html so to build a foundation round its basic
